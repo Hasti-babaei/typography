@@ -1,0 +1,16 @@
+html {
+  background: linear-gradient(to right, #eb82dd, #029292);
+  color: black;
+  font-size: 30px;
+  font-weight: 70px;
+}
+.text {
+  padding-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
