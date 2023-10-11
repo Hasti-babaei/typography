@@ -4,7 +4,8 @@ html {
   font-size: 30px;
   font-weight: 70px;
 }
-.text {
+
+.text-div {
   padding-top: 150px;
   display: flex;
   justify-content: center;
